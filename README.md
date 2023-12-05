@@ -1,6 +1,6 @@
-# datasetsyntheticsfaces
+# Dataset Synthetics Faces
 
-# Description of the Synthetic Image Dataset
+## Description of the Synthetic Image Dataset
 
 ## Technical Characteristics:
 

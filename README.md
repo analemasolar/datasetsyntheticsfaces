@@ -43,3 +43,5 @@ Links:
 
 You can use, redistribute, and adapt it for non-commercial purposes, as long as you (a) give appropriate credit by citing my repository (https://github.com/analemasolar/datasetsyntheticsfaces), (b) indicate any changes that you've made, and (c) distribute any derivative works under the same license.
 
+## Link for downloading the dataset
+[Google Drive](https://drive.google.com/drive/folders/1LLFm8CAQKflYgqCWoeio99DmlzecftZb?usp=sharing)
